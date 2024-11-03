@@ -11,5 +11,5 @@ Organizar o setor de desenvolvimento, documentação de projetos, solicitação 
 * Referências a sistemas internos
 * Links Úteis internos e externos
 
-> [!IMPORTANT]
-> Constantemente, volte a este repositório para acompanhara as atualizações de procedimentos e protocolos.
+> [!IMPORTANTE]
+> Constantemente, volte a este repositório para acompanhar as atualizações de procedimentos e protocolos.
