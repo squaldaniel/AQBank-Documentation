@@ -1,0 +1,1 @@
+# Padrão de Docmentação de Códigos da AQ Bank
